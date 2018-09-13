@@ -9,3 +9,7 @@ template: default
       <p>Wywiady i informacje dookoła Tematu. Na początku widziałbym wywaiad z kimś z Pfron odpowiedzialnym za program (dawniej) Student. Opis działania tego programu. Jak z niego korzystać. Dalej wywiady, artykuły o fundacjach, terapii zajęciowej, formach terapii, leczenia, ułatwieniach w dokształcaniu, kursach itp.</p>
     </div>
   </div>
+
+ {% include footer.html %}
+<!-- END MAIN -->
+</div>
