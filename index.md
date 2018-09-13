@@ -1,3 +1,6 @@
+---
+---
+
 <% include sidebar.html %>
 
   <div class="w3-row w3-padding-64">
