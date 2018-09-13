@@ -9,3 +9,7 @@ template: default
       <p>...</p>
     </div>
   </div>
+  
+ {% include footer.html %}
+<!-- END MAIN -->
+</div>
