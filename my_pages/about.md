@@ -10,6 +10,15 @@ layout: default
     </div>
   </div>
   
+   {% include_relative about/about_pelnosprawnosc.html %}
+   
+   {% include_relative about/about_uklad.html %}
+   
+   {% include_relative about/about_igor.html %}
+   
+   {% include_relative about/about_rocker.html %}
+   
+   {% include_relative about/about_artur.html %}
 
  {% include footer.html %}
 <!-- END MAIN -->
