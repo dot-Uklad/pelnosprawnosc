@@ -13,3 +13,7 @@ template: default
       <p>i for example Forrest Gump.</p>
     </div>
   </div>  
+
+ {% include footer.html %}
+<!-- END MAIN -->
+</div>
