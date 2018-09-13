@@ -10,38 +10,3 @@ layout: default
     </div>
   </div>
 
-  <div class="w3-row">
-    <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">plastyczna</h1>
-      <p>...</p>
-    </div>
-  </div>
-
-   <div class="w3-row">
-    <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">literacka</h1>
-      <p>...</p>
-    </div>
-  </div>
-
-   <div class="w3-row">
-    <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">filmowa</h1>
-      <p>...</p>
-    </div>
-  </div>
-
-   <div class="w3-row">
-    <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">muzyczna</h1>
-      <p>...</p>
-    </div>
-  </div>
-
-
-   <div class="w3-row">
-    <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">inne</h1>
-      <p>...</p>
-    </div>
-  </div>
