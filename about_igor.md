@@ -2,7 +2,7 @@
 
   <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">Igor Czechak</h1>
+      <h1 class="w3-text-teal">Igor Czechak </h1>
       <p>Założyciel portalu, zdjęcie i notka ( pisze autor niniejszego projektu)</p>
     </div>
   </div>
