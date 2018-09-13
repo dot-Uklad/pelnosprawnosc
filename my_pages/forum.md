@@ -12,3 +12,6 @@ layout: default
   </div>
 
 
+ {% include footer.html %}
+<!-- END MAIN -->
+</div>
