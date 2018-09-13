@@ -3,7 +3,6 @@
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Zamknij menu">
     <i class="fa fa-remove"></i>
   </a>
-  <h4 class="w3-bar-item"><b>Menu</b></h4>
   <a class="w3-bar-item w3-button w3-hover-black" href="\about_pelnosprawnosc.md">O stronie pelnosprawnosc.pl</a>
   <a class="w3-bar-item w3-button w3-hover-black" href="\about_uklad.md">O Układ.Igor Czechak</a>
   <a class="w3-bar-item w3-button w3-hover-black" href="\about_igor.md">Igor Czechak</a>
