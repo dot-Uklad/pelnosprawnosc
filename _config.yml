@@ -1,7 +1,2 @@
-source              : .
-destination         : .
-collections_dir     : .
-plugins_dir         : .
-layouts_dir         : .
-data_dir            : .
+
 title:.Układ - Portal pełnosprawnych
