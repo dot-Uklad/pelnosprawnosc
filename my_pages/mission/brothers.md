@@ -13,4 +13,6 @@ Na poczatek „wstepniak” mojego autorstwa.
     </div>
   </div>
 
-
+ {% include footer.html %}
+<!-- END MAIN -->
+</div>
