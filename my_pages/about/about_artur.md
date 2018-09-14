@@ -8,12 +8,9 @@
 </p>
       <p>Jednocześnie jest przedsiębiorczy, pracowity, systematyczny, ambitny, ma spore doświadczenie wydawnicze z publikacji swoich książek, dobrze funkcjonuje w "machinach biurokrtatycznych", dobry Project Manager. 
 </p>
-      <p>Nie lansuje się, nie pozuje, nie gwiazdorzy, nie snobuje, nie udaje że rozumie coś czego nie rozumie - jest autentyczny.
-</p>
-
+      <p>Nie lansuje się, nie pozuje, nie gwiazdorzy, nie snobuje, nie udaje że rozumie coś czego nie rozumie - jest autentyczny.</p>
   </div>
-
-
+</div>
 
  {% include footer.html %}
 <!-- END MAIN -->
