@@ -2,7 +2,7 @@
 
    <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">.Układ (dot-układ) Igor Czechak</h1>
+      <h1 class="w3-text-teal">.Układ Igor Czechak</h1>
       <p>Firma założona w roku 2016 przez Igora Czechaka. Firma działa przede wszystkim
 w branży informatycznej, jednak jej misją i głównym założeniem jest, by dzięki zgromadzonym środkom,
 w miarę możliwości, na różnych polach, wspierać ludzi dotkniętych niepełnosprawnością fizyczną bądź
