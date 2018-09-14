@@ -7,7 +7,7 @@
     </div>
     <div class="w3-twothird w3-container">
     <h1 class="w3-text-teal">Igor o Arturze</h1>
-      <p>Faktycznie, potwierdzam - skrajny pesymista, do niedawna nieustannie bluzgający na Boga i życie. Nienawidzi siebie, rodziców za to że go powołali na świat na którym wyłącznie cierpi. Faktycznie cierpi, nie udaje. Jego niespełnionym marzeniem jest przestać istnieć. Ewentualnie mógłby zostać uznanym za geniusza literatury w stylu William S. Burroughs'a. Pośrednie warianty nie wchodzą w grę.
+      <p>Potwierdzam - skrajny pesymista, do niedawna nieustannie bluzgający na Boga i życie. Nienawidzi siebie, rodziców za to że go powołali na świat na którym wyłącznie cierpi. Faktycznie cierpi, nie udaje. Jego niespełnionym marzeniem jest przestać istnieć. Ewentualnie mógłby zostać uznanym za geniusza literatury w stylu William S. Burroughs'a. Pośrednie warianty nie wchodzą w grę.
 </p>
       <p>Jednocześnie jest przedsiębiorczy, pracowity, systematyczny, ambitny, ma spore doświadczenie wydawnicze z publikacji swoich książek, dobrze funkcjonuje w "machinach biurokrtatycznych" - świetny Project Manager. 
 </p>
