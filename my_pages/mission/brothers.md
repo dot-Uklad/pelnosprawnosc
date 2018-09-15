@@ -11,9 +11,6 @@ Przydała by się możliwośc lajkowania i komentowania(o zgrozo!). To w ogóle 
 Na poczatek „wstepniak” mojego autorstwa.
 </p>
     </div>
-  </div>
-  
-  <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
       <h1 class="w3-text-teal">Wstępniak</h1>
       <p>Pierwszym artystą, którego choroba psychiczna stała się wręcz własnością publiczną był de Nerval. O
