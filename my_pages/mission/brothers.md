@@ -38,9 +38,10 @@ wędrowców na burzliwych oceanach życia, jak „Krzyż Południa” Krzysztoni
 </p>
     </div>
    <div class="w3-third w3-container">
-      <p class="w3-border w3-padding-large w3-padding-32 w3-center"><b>Ernest Hemingway „Zielone wzgórza Afryki”</b></br>
+      <p class="w3-border w3-padding-large w3-padding-32 w3-center">
       „Bo my bywaliśmy tam w książkach i poza książkami, a dokądkolwiek pójdziemy i wy możecie tam
 pójść, jeżeli byliśmy coś warci”
+</br><b>Ernest Hemingway „Zielone wzgórza Afryki”</b>
 </p>
     </div>
 </div>
