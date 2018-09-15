@@ -16,7 +16,7 @@ mieszka samodzielnie, choć niezbędny jest mu na co dzień asystent. Powtarza, 
 innym wypadku doskwierały by mu w zamian poważnie wątpliwości czy aby na pewno nadal żyje. W
 portalu odpowiedzialny między innymi za szeroko rozumiany kontakt z „Forumowiczami”.</p>
     </div>
-    <iframe src="https://drive.google.com/file/d/1145SelKWi1WkSsSqGzwuCY4b9JGo4Sn7/preview" width="640" height="480"></iframe>
+    <iframe src="https://drive.google.com/file/d/1145SelKWi1WkSsSqGzwuCY4b9JGo4Sn7/preview" width="640" height="340"></iframe>
   </div>
   
   
