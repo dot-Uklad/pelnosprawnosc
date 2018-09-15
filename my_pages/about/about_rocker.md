@@ -18,6 +18,8 @@ portalu odpowiedzialny między innymi za szeroko rozumiany kontakt z „Forumowi
     </div>
   </div>
   
+  <iframe src="https://drive.google.com/file/d/1145SelKWi1WkSsSqGzwuCY4b9JGo4Sn7/preview" width="640" height="480"></iframe>
+  
  
  {% include footer.html %}
 <!-- END MAIN -->
