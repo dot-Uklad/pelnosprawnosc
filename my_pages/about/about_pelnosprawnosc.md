@@ -11,7 +11,7 @@ im wiary i sił na artystycznej ścieżce, która nigdy i dla nikogo nie była �
 ambicje, by zrzeszać ludzi, którzy mają inwencję lub chociażby chęci, by być twórczym, kreatywnym i
 aktywnym mimo ograniczeń, które spotykają nas na co dzień. Ludzi, którym chce się chcieć i którzy z
 jakichś względów postanowili przenieść góry lub chociażby jakieś pomniejsze pagórki. Chcemy
-pokazywać, że MOŻNA poprzez pokazywanie autentycznych przykładów, inspirować, wskazywać w
+pokazywać, że MOŻNA, poprzez pokazywanie autentycznych przykładów, inspirować, wskazywać w
 sposób praktyczny możliwe ścieżki działań i formy pomocy i, co nie mniej ważne a może nawet
 ważniejsze, być platformą, gdzie można znaleźć ludzi o podobnych zainteresowaniach, pasjach,
 marzeniach...i o podobnych problemach. „Dla wszystkich starczy miejsca”.</p>
