@@ -38,13 +38,16 @@ maszyny. Skoro oni mogli, my tez możemy, to pewne. Jeśli oczywiście będziemy
 naszym talentem...i jeśli jesteśmy wybrani. Innej drogi nie ma i nigdy nie było. I niech świecą nam jak
 gwiazdy, choć brzmi to może nieco nazbyt patetycznie, jak gwiazdy polarne zagubionych może nieco
 wędrowców na burzliwych oceanach życia, jak „Krzyż Południa” Krzysztoniowi.
-„Bo my bywaliśmy tam w książkach i poza książkami, a dokądkolwiek pójdziemy i wy możecie tam
-pójść, jeżeli byliśmy coś warci”
-Ernest Hemingway „Zielone wzgórza Afryki”
 </p>
     </div>
   </div>
   
+   <div class="w3-third w3-container">
+      <p class="w3-border w3-padding-large w3-padding-32 w3-center"><b>Ernest Hemingway „Zielone wzgórza Afryki”</b>
+      „Bo my bywaliśmy tam w książkach i poza książkami, a dokądkolwiek pójdziemy i wy możecie tam
+pójść, jeżeli byliśmy coś warci”
+</p>
+    </div>
 
 
  {% include footer.html %}
