@@ -12,6 +12,9 @@ i innych błogosławionych) oraz osób dotkniętych niepełnosprawnością fizyc
 złota rączka, człowiek ciepły, prawy, i co nie mniej ważne, wcale nie dęty i głupi. Oprócz rozwoju portalu
 i wspomagania osób „wykluczonych” ma w planach zostanie świętym kościoła katolickiego.</p>
     </div>
+    <div class="w3-third w3-container">
+      <img class="w3-border w3-padding-large w3-padding-32 w3-center" width="380" src="{{site.baseurl}}\igor.jpg">
+    </div>
   </div>
 
  {% include footer.html %}
