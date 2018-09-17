@@ -6,8 +6,12 @@ layout: default
 
   <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">Coś jak jakiś fejsbuk</h1>
-      <p>mżliwośc zamieszczania ogłoszeń towarzyskich i o współpracę ( że ktoś szuka dźwiękowca a ktoś plastyka a ktoś edytora a ktoś po prostu innych ludzi z podobnymi zainteresowaniami i problemami. Tak więc czat-ogólny ( może być z podziałem na umysłowych i niewpełniruchawych, bo się nie dogadają ;-)). Tak więc czat ogólny, co najmniej dwa podczaty ( lub i nie) Tablica z mozliwością zamieszczania ogłoszeń i wklejania linków i swoich prac róznego rodzaju. Tu Rock tez mógłby być moderatorem.</p>
+      <h1 class="w3-text-teal">Find someone!</h1>
+      <p>Znajdź kogoś, znajdź kogoś o podobnych pasjach, podobnych zainteresowaniach,
+znajdź kogoś kto mógłby być pomocny przy realizacji Twojego artystycznego projektu lub też do
+spotkania się na pół litra, na przykład kawy. A może nawet jakąś bratnią dusze na złe i dobre? Zachęcamy
+do zamieszczania ogłoszeń na naszej tablicy i do kontaktu z innymi forumowiczami. „Jest pewnym, że
+moje przekonanie staje się nieskończenie silniejsze z chwilą, gdy uwierzy w nie inna dusza” Novalis.</p>
     </div>
   </div>
 
