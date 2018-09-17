@@ -11,7 +11,7 @@
       <p>Nie lansuje się, nie pozuje, nie gwiazdorzy, nie snobuje, nie udaje że rozumie coś czego nie rozumie - jest autentyczny.</p>
   </div>
      <div class="w3-third w3-container">
-      <img class="w3-border w3-padding-large w3-padding-32 w3-center" src="{{site.baseurl}}\kosiorowski.jpg">
+      <img class="w3-border w3-padding-large w3-padding-32 w3-center" width="96" src="{{site.baseurl}}\kosiorowski.jpg">
     </div>
 </div>
 
