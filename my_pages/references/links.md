@@ -6,7 +6,7 @@ template: default
    <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
       <h1 class="w3-text-teal">Pierwsze linki:</h1>
-      <p><a href="https://aktualnekonkursy.pl/>https://aktualnekonkursy.pl/</a></p>
+      <p><a href="https://aktualnekonkursy.pl/">https://aktualnekonkursy.pl/</a></p>
 <p><a href="https://www.wcpr.pl/osoby-niepelnosprawne/dofinansowania-ze-srodkow-pfron/dofinansowania-w-
   ramach-programu-aktywny-samorzad/dofinansowanie-w-ramach-programu-aktywny-samorzad/">https://www.wcpr.pl/osoby-niepelnosprawne/dofinansowania-ze-srodkow-pfron/dofinansowania-w-
   ramach-programu-aktywny-samorzad/dofinansowanie-w-ramach-programu-aktywny-samorzad/</a></p>
