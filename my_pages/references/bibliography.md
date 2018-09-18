@@ -5,7 +5,7 @@ template: default
   
   <div class="w3-row w3-padding-64">
     <div class="w3-twothird w3-container">
-      <h2 class="w3-text-teal">Bibliografia</h1>
+      <h1 class="w3-text-teal">Bibliografia</h1>
       <p>Zachęcamy do zaglądania na podstronę Bibliografia. Będziemy tu systematycznie
 zamieszczać pozycje książkowe, filmowe i inne, które odnoszą się do tematu portalu, a więc
 niepełnosprawności, chorób psychicznych i twórczości artystycznej, pozycje które może pomogą Wam
@@ -15,7 +15,7 @@ do nadsyłania Twoich propozycji!( mejl redakcyjny)
     </div>
     
     <div class="w3-twothird w3-container">
-      <h2 class="w3-text-teal">„Zdrowie psychiczne” pod red. prof. Kazimierza Dąbrowskiego</h1>
+      <h2 class="w3-text-teal">„Zdrowie psychiczne” pod red. prof. Kazimierza Dąbrowskiego</h2>
       <p>
 Książka kultowa. Przedstawia teorię dezintegracji pozytywnej autorstwa Kazimierza Dąbrowskiego.
 Mówiąc w największym skrócie książka przedstawia tytułowe zdrowie psychiczne jako proces, w którym,
@@ -31,7 +31,7 @@ we własnym kraju.
     </div>
     
     <div class="w3-twothird w3-container">
-      <h2 class="w3-text-teal">„Schizofrenia” prof. Antoni Kepiński</h1>
+      <h2 class="w3-text-teal">„Schizofrenia” prof. Antoni Kepiński</h2>
       <p>
 Również kultowa książka z dziedziny psychiatrii, jedna z serii licznych książek profesora Kępińskiego
 traktujących o różnego rodzaju zaburzeniach psychicznych, które zostały napisane „rzutem na taśmę”,
@@ -44,7 +44,7 @@ pobieżnymi czy piętnującymi opiniami.
     </div>
     
     <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">„Malarstwo i schizofrenia” Noemi Madejska ( ze wstępem Stanisława Lema)</h1>
+      <h2 class="w3-text-teal">„Malarstwo i schizofrenia” Noemi Madejska ( ze wstępem Stanisława Lema)</h2>
       <p>
 Bardzo ciekawa pozycja traktująca o twórczości plastycznej, konkretnie malarskiej, osób chorych na
 schizofrenię, praca oparta na osobistym doświadczeniu autorki w kontaktach z chorymi i ich twórczością
